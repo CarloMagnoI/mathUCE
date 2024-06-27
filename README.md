@@ -13,15 +13,11 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
 - [Clase 2: Algoritmos de programación y sistemas numéricos](https://colab.research.google.com/drive/1uak1bLzAZaGPKGPULJDu187l2RbVgqFg?usp=sharing)
 - [Notebook 3](link_a_tu_notebook_3)
 
-### Ejercicios
-- [**Area de un cuadrado, *(Algoritmo y flujograma,PSeInt)*.**](
-  
-- **Tema 2:** Colección de ejercicios sobre el tema.
-
-### Recursos
+### Recursos, Ejercicios y materiales de clase.
 - **Clase 1: Elementos de lógica y conjuntos**
    - [**Apuntes de clase físicos**](https://drive.google.com/file/d/1Br20mbJnQzNoA3llcEIx_GdxqoSFEwf2/view?usp=drivesdk)
-- **Tutoriales y Cursos:** Enlaces a tutoriales y cursos útiles.
+- **Clase 2: Algoritmos de programación y sistemas numéricos**
+   - - [**Area de un cuadrado, *(Algoritmo y flujograma,PSeInt)*.**](https://drive.google.com/file/d/1Bu5FCC2hTUWZwPvMd1jvqwqXcj5kxLJ5/view?usp=drivesdk)
 
 
-
+ 
