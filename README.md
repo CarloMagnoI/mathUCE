@@ -9,7 +9,7 @@ Este espacio está dedicado a compartir recursos, proyectos y ejercicios relacio
 ## Yupi Notebooks en Google Colab
 Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarrollo y explico diversos temas en detalle:
 
-- [Clase 1: Elementos de lógica y conjuntos](1_Elementos_de_lógica_y_conjuntos.ipynb)
+- [Clase 1: Elementos de lógica y conjuntos](https://colab.research.google.com/drive/1WM1DmwbYZyG_MsNX_RS2F9-Ziu2Ztk7E?usp=sharing)
 - [Notebook 2](link_a_tu_notebook_2)
 - [Notebook 3](link_a_tu_notebook_3)
 
