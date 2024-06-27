@@ -21,7 +21,7 @@ Este espacio está dedicado a compartir recursos, proyectos y ejercicios relacio
 ## Yupi Notebooks en Google Colab
 Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarrollo y explico diversos temas en detalle:
 
-- [Notebook 1](link_a_tu_notebook_1)
+- [Notebook 1](1_Elementos_de_lógica_y_conjuntos.ipynb)
 - [Notebook 2](link_a_tu_notebook_2)
 - [Notebook 3](link_a_tu_notebook_3)
 
