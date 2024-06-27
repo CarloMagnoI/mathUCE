@@ -14,11 +14,13 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
 - [Notebook 3](link_a_tu_notebook_3)
 
 ### Ejercicios
-- **Raíz cuadrada** Colección de ejercicios sobre el tema.
+- **Raíz cuadrada, (Algoritmo y flujograma,PSeInt).**
+  
 - **Tema 2:** Colección de ejercicios sobre el tema.
 
 ### Recursos
-- **Libros y Artículos:** Lista de libros y artículos recomendados.
+- **Clase 1: Elementos de lógica y conjuntos**
+   - [**Apuntes de clase físicos**](https://drive.google.com/file/d/1Br20mbJnQzNoA3llcEIx_GdxqoSFEwf2/view?usp=drivesdk)
 - **Tutoriales y Cursos:** Enlaces a tutoriales y cursos útiles.
 
 
