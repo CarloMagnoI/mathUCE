@@ -18,6 +18,7 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
    - [**Apuntes de clase físicos**](https://drive.google.com/file/d/1Br20mbJnQzNoA3llcEIx_GdxqoSFEwf2/view?usp=drivesdk)
    - [**Quizz Lógica Proposicional (imagen)**](https://drive.google.com/file/d/1CJCZynQctQiprCMqE6QglmlnQ2kFjHg-/view?usp=drivesdk)
       - [**Link Quizz**](
+   - [*Video Clase*](https://youtu.be/xhAM6WZEtoo?si=M-DzzNry2gkVrFjo)
    - **Clase 2: Algoritmos de programación y sistemas numéricos**
    - [**Area de un cuadrado, *(Algoritmo y flujograma,PSeInt)*.**](https://drive.google.com/file/d/1Bu5FCC2hTUWZwPvMd1jvqwqXcj5kxLJ5/view?usp=drivesdk)
 
