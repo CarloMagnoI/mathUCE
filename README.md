@@ -14,7 +14,7 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
 - [Notebook 3](link_a_tu_notebook_3)
 
 ### Ejercicios
-- **Raíz cuadrada, (Algoritmo y flujograma,PSeInt).**
+- [**Area de un cuadrado, *(Algoritmo y flujograma,PSeInt)*.**](
   
 - **Tema 2:** Colección de ejercicios sobre el tema.
 
