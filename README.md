@@ -17,10 +17,15 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
 - **Clase 1: Elementos de lógica y conjuntos**
    - [**Apuntes de clase físicos**](https://drive.google.com/file/d/1Br20mbJnQzNoA3llcEIx_GdxqoSFEwf2/view?usp=drivesdk)
    - [**Quizz Lógica Proposicional (imagen)**](https://drive.google.com/file/d/1CJCZynQctQiprCMqE6QglmlnQ2kFjHg-/view?usp=drivesdk)
-      - [**Link Quizz**](
-   - [*Video Clase*](https://youtu.be/xhAM6WZEtoo?si=M-DzzNry2gkVrFjo)
-   - **Clase 2: Algoritmos de programación y sistemas numéricos**
+      - [**Link Quizz**](https://quizizz.com/join?gc=82817068)
+   - [**Video CLase**](https://m.youtube.com/watch?v=xhAM6WZ
+   - Etoo&feature=youtu.be)
+- **Clase 2: Algoritmos de programación y sistemas numéricos**
    - [**Area de un cuadrado, *(Algoritmo y flujograma,PSeInt)*.**](https://drive.google.com/file/d/1Bu5FCC2hTUWZwPvMd1jvqwqXcj5kxLJ5/view?usp=drivesdk)
+   - [**Video clase:**](https://m.youtube.com/watch?v=_J5YGdlDBjg&t=13s)
+   - [**Presentación y video**](https://drive.google.com/file/d/1y3y1xnctcV9tdFtEgJ1SSmA2bP_Lhihq/view?usp=drive_link)
+   - [**Enlace a la documentación de Python**](https://docs.python.org/)
+   - [**Libro de referencia: Introduction to Algorithms - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein**](https://mitpress.mit.edu/9780262033848/introduction-to-algorithms/)
 
 
  
