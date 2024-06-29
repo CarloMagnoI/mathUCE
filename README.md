@@ -12,8 +12,9 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
 - [Clase 1: Elementos de lógica y conjuntos](https://colab.research.google.com/drive/1WM1DmwbYZyG_MsNX_RS2F9-Ziu2Ztk7E?usp=sharing)
 - [Clase 2: Algoritmos de programación y sistemas numéricos](https://colab.research.google.com/drive/1uak1bLzAZaGPKGPULJDu187l2RbVgqFg?usp=sharing)
 - [Clase 3: Entorno de Python, variables y operadores. Principios de demostración matemática.](https://colab.research.google.com/drive/1ptOXscHnfDlRChT3GL0OnFdX-uPkuuKR?usp=sharing)
+- [Clase 4: Principios de demostración matemática. Funciones y conceptos relacionado.](https://colab.research.google.com/drive/1LAEJCxBwBwiAxuBAYTzN7WKM8ZZm4hoz?usp=sharing)
 
-### Recursos, Ejercicios y materiales de clase.
+### Recursos, Ejercicios y Materiales de Clase.
 - **Clase 1: Elementos de lógica y conjuntos**
    - [**Apuntes de clase físicos**](https://drive.google.com/file/d/1Br20mbJnQzNoA3llcEIx_GdxqoSFEwf2/view?usp=drivesdk)
    - [**Quizz Lógica Proposicional (imagen)**](https://drive.google.com/file/d/1CJCZynQctQiprCMqE6QglmlnQ2kFjHg-/view?usp=drivesdk)
@@ -29,6 +30,8 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
    - [Calculadora de ecuación cuadrática (Python)](https://drive.google.com/file/d/1mkkFBoCYoCKQsvNBUxdVBmrHkqksri3U/view?usp=sharing)
    - [Apuntes de Clase](https://miro.com/app/board/uXjVK4TstJw=/?share_link_id=226237045822)
    - [Video de la Clase](https://youtu.be/16GR6LGy8FA)
-
+- **Clase 4: Principios de demostración matemática. Funciones y conceptos relacionado.**
+   - [Video de la Clase](https://www.youtube.com/watch?v=-5FVWy3q3Pk)
+   - [Apuntes de Clase](https://miro.com/app/board/uXjVK33kH5U=/?share_link_id=552062232434)
 
  
