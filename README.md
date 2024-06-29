@@ -11,7 +11,7 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
 
 - [Clase 1: Elementos de lógica y conjuntos](https://colab.research.google.com/drive/1WM1DmwbYZyG_MsNX_RS2F9-Ziu2Ztk7E?usp=sharing)
 - [Clase 2: Algoritmos de programación y sistemas numéricos](https://colab.research.google.com/drive/1uak1bLzAZaGPKGPULJDu187l2RbVgqFg?usp=sharing)
-- [Notebook 3](link_a_tu_notebook_3)
+- [Clase 3: Entorno de Python, variables y operadores. Principios de demostración matemática.](https://colab.research.google.com/drive/1ptOXscHnfDlRChT3GL0OnFdX-uPkuuKR?usp=sharing)
 
 ### Recursos, Ejercicios y materiales de clase.
 - **Clase 1: Elementos de lógica y conjuntos**
@@ -21,10 +21,14 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
    - [**Video CLase**](https://m.youtube.com/watch?v=xhAM6WZEtoo&feature=youtu.be)
 - **Clase 2: Algoritmos de programación y sistemas numéricos**
    - [**Area de un cuadrado, *(Algoritmo y flujograma,PSeInt)*.**](https://drive.google.com/file/d/1Bu5FCC2hTUWZwPvMd1jvqwqXcj5kxLJ5/view?usp=drivesdk)
-   - [**Video clase:**](https://m.youtube.com/watch?v=_J5YGdlDBjg&t=13s)
+   - [**Video clase**](https://m.youtube.com/watch?v=_J5YGdlDBjg&t=13s)
    - [**Presentación y video**](https://drive.google.com/file/d/1y3y1xnctcV9tdFtEgJ1SSmA2bP_Lhihq/view?usp=drive_link)
    - [**Enlace a la documentación de Python**](https://docs.python.org/)
    - [**Libro de referencia: Introduction to Algorithms - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein**](https://mitpress.mit.edu/9780262033848/introduction-to-algorithms/)
+- **Clase 3: Entorno de Python, variables y operadores. Principios de demostración matemática.**
+   - [Calculadora de ecuación cuadrática (Python)](https://drive.google.com/file/d/1mkkFBoCYoCKQsvNBUxdVBmrHkqksri3U/view?usp=sharing)
+   - [Apuntes de Clase](https://miro.com/app/board/uXjVK4TstJw=/?share_link_id=226237045822)
+   - [Video de la Clase](https://youtu.be/16GR6LGy8FA)
 
 
  
