@@ -20,6 +20,7 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
    - [**Quizz Lógica Proposicional (imagen)**](https://drive.google.com/file/d/1CJCZynQctQiprCMqE6QglmlnQ2kFjHg-/view?usp=drivesdk)
       - [**Link Quizz**](https://quizizz.com/join?gc=82817068)
    - [**Video CLase**](https://m.youtube.com/watch?v=xhAM6WZEtoo&feature=youtu.be)
+   -  <a href="https://miro.com/app/board/uXjVK5MP8Ms=/?share_link_id=136644180414" target="_blank">Apuntes de Clase</a>
 - **Clase 2: Algoritmos de programación y sistemas numéricos**
    - [**Area de un cuadrado, *(Algoritmo y flujograma,PSeInt)*.**](https://drive.google.com/file/d/1Bu5FCC2hTUWZwPvMd1jvqwqXcj5kxLJ5/view?usp=drivesdk)
    - [**Video clase**](https://m.youtube.com/watch?v=_J5YGdlDBjg&t=13s)
