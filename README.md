@@ -53,7 +53,7 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
    - 🎥 [**Video de la Clase**](https://youtu.be/16GR6LGy8FA)
 - **Clase 4: Principios de demostración matemática. Funciones y conceptos relacionados.**
    - 🎥 [**Video de la Clase**](https://www.youtube.com/watch?v=-5FVWy3q3Pk)
-   - 📝 **[Apuntes de Clase**](https://miro.com/app/board/uXjVK33kH5U=/?share_link_id=552062232434)
+   - 📝 [**Apuntes de Clase**](https://miro.com/app/board/uXjVK33kH5U=/?share_link_id=552062232434)
 - **Clase 5: Aplicación a la Economía en Función Biyectiva y Compuesta.**
    - 📝 [**Apuntes de Clase**](https://miro.com/app/board/uXjVK3CJUh0=/?share_link_id=654874216577)
    - 🎥 [**Video de la Clase**](https://youtu.be/b7RG6Ha9EEg)
