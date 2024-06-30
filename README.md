@@ -15,7 +15,6 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
 - 📕 [Clase 4: Principios de demostración matemática. Funciones y conceptos relacionados.](https://colab.research.google.com/drive/1LAEJCxBwBwiAxuBAYTzN7WKM8ZZm4hoz?usp=sharing)
 - 📒 [Clase 5: Aplicación a la Economía en Función Biyectiva y Compuesta.](https://colab.research.google.com/drive/1vex3ouK6kpzNl105hSn1qOj7VJrUTKwU?usp=sharing)
 
----
 ## 📜 code
    - 🔢 Pseudocódigos de PSeInt.
       - 📐[Calcular R](https://uceedu-my.sharepoint.com/:u:/g/personal/rcordonez_uce_edu_ec/EbvXE0Th709Jkiegwehwb-IBnzQ5DY-oX_Pj7C1aIdmATQ?e=WQqUKw)
