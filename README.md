@@ -16,8 +16,21 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
 - 📒 [Clase 5: Aplicación a la Economía en Función Biyectiva y Compuesta.](https://colab.research.google.com/drive/1vex3ouK6kpzNl105hSn1qOj7VJrUTKwU?usp=sharing)
 
 ---
+## 📜 code
+   - 🔢 Pseudocódigos de PSeInt.
+      - 📐[Calcular R](https://uceedu-my.sharepoint.com/:u:/g/personal/rcordonez_uce_edu_ec/EbvXE0Th709Jkiegwehwb-IB6qvZr-QeKqShQFr2Huljqg?e=P8Mt43)
+      - 📦[Cálculo del volumen de una caja](https://uceedu-my.sharepoint.com/:u:/g/personal/rcordonez_uce_edu_ec/EfbOB6iPvh1Ns9sho6G3wDYBSZLLf9tMNtrlmlo-IJ9Enw?e=laQTBk)
+      - 🧾[Rol de Pagos](https://uceedu-my.sharepoint.com/:u:/g/personal/rcordonez_uce_edu_ec/EXwPV81PdpJNhYon116ZFrYBAK45RDfMZ2RiBuU-dYaAzA?e=Y0R3A2)
+      - ➗[Ecuación Cuadrática](https://uceedu-my.sharepoint.com/:u:/g/personal/rcordonez_uce_edu_ec/EQpeQ0-HNN1EnCPLUj23J8sBUK6A_vuuj1I9puBYR8SewA?e=L86x5b)
+   - 🐍 Códigos Python (.py).
+      - 👋[Hola Mundo](https://drive.google.com/file/d/1U-6t97Vv38DHU_QT7rdk2Mhv1yob48Fv/view?usp=sharing)
+      - 🔣[Operadores](https://drive.google.com/file/d/1PMGHXVUXKE2Fqt9XNBFwfDh-mFctzygD/view?usp=sharing)
+      - 📐[Calcular R](https://uceedu-my.sharepoint.com/:u:/g/personal/rcordonez_uce_edu_ec/EX-heBBe3WdDp0anAP35eGIBs2vURWSbAUQcuo4dEtHzsg?e=LfpiFL)
+      - 📦[Cálculo del volumen de una caja](https://uceedu-my.sharepoint.com/:u:/g/personal/rcordonez_uce_edu_ec/EaYXL-dEkWJKuvnlQgxgz9YBQ1JGOHHDhv0C0scO_gLW9g?e=CbXpzc)
+      - 🧾[Rol de Pagos](https://uceedu-my.sharepoint.com/:u:/g/personal/rcordonez_uce_edu_ec/EckgbmbJRTtNpTW8QZVTwcoBhS8iqxfKOvBFptWMP4v0tg?e=fwvFIc)
+      - ➗[Ecuación Cuadrática](https://uceedu-my.sharepoint.com/:u:/g/personal/rcordonez_uce_edu_ec/EckgbmbJRTtNpTW8QZVTwcoBPOKpMhIIiHNbSY1T9b46pw?e=R5D01T)
 
-### 📂 Recursos, Ejercicios y Materiales de Clase
+## 📂 Recursos, Ejercicios y Materiales de Clase
 - **Clase 1: Elementos de lógica y conjuntos**
    - 📝 [**Apuntes de clase físicos**](https://drive.google.com/file/d/1Br20mbJnQzNoA3llcEIx_GdxqoSFEwf2/view?usp=drivesdk)
    - 🧩 [**Quizz Lógica Proposicional (imagen)**](https://drive.google.com/file/d/1CJCZynQctQiprCMqE6QglmlnQ2kFjHg-/view?usp=drivesdk)
