@@ -21,6 +21,8 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
       - 📦[Cálculo del volumen de una caja](https://uceedu-my.sharepoint.com/:u:/g/personal/rcordonez_uce_edu_ec/EfbOB6iPvh1Ns9sho6G3wDYBSZLLf9tMNtrlmlo-IJ9Enw?e=laQTBk)
       - 🧾[Rol de Pagos](https://uceedu-my.sharepoint.com/:u:/g/personal/rcordonez_uce_edu_ec/EXwPV81PdpJNhYon116ZFrYBAK45RDfMZ2RiBuU-dYaAzA?e=Y0R3A2)
       - ➗[Ecuación Cuadrática](https://uceedu-my.sharepoint.com/:u:/g/personal/rcordonez_uce_edu_ec/EQpeQ0-HNN1EnCPLUj23J8sBUK6A_vuuj1I9puBYR8SewA?e=L86x5b)
+      - 📐[Área de un cuadrado](https://drive.google.com/file/d/1Bu5FCC2hTUWZwPvMd1jvqwqXcj5kxLJ5/view?usp=drivesdk)
+      - 🤑[Costo Total Baldosas](https://drive.google.com/file/d/19PsQ98yg4yZHeAWfwhC8T-iJ4cMFNMQs/view?usp=sharing)
    - 🐍 Códigos Python (.py).
       - 👋[Hola Mundo](https://drive.google.com/file/d/1U-6t97Vv38DHU_QT7rdk2Mhv1yob48Fv/view?usp=sharing)
       - 🔣[Operadores](https://drive.google.com/file/d/1PMGHXVUXKE2Fqt9XNBFwfDh-mFctzygD/view?usp=sharing)
@@ -28,6 +30,9 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
       - 📦[Cálculo del volumen de una caja](https://uceedu-my.sharepoint.com/:u:/g/personal/rcordonez_uce_edu_ec/EaYXL-dEkWJKuvnlQgxgz9YBQ1JGOHHDhv0C0scO_gLW9g?e=CbXpzc)
       - 🧾[Rol de Pagos](https://uceedu-my.sharepoint.com/:u:/g/personal/rcordonez_uce_edu_ec/EckgbmbJRTtNpTW8QZVTwcoBhS8iqxfKOvBFptWMP4v0tg?e=fwvFIc)
       - ➗[Ecuación Cuadrática](https://uceedu-my.sharepoint.com/:u:/g/personal/rcordonez_uce_edu_ec/ETVasUQ1ab9Ej9O79_uLNOgBY_pMBTrIY_nICrMh2IMpag?e=6AkogG)
+      - 📐[Área de un cuadrado](https://drive.google.com/file/d/1xPUvLXzjpbwB6zZBYygGCTeWMmbqbn1P/view?usp=sharing)
+      - 🤑[Costo Total Baldosas](https://drive.google.com/file/d/1chUYoOikY3WASwdgC3ZeMccnUW9BbG8z/view?usp=sharing)
+     
 
 ## 📂 Recursos, Ejercicios y Materiales de Clase
 - **Clase 1: Elementos de lógica y conjuntos**
