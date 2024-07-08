@@ -88,13 +88,13 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
    - [Preguntas de Práctica y Fichas de Estudio](ENLACE_A_PREGUNTAS_Y_FICHAS)
    - [Video de la Clase](ENLACE_AL_VIDEO)
 ---
-## Referencias y Licencias
+## ©️ ***Referencias y Licencias***
 
 Este trabajo utiliza material del curso "Matemáticas y Programación para Ciencias Sociales" de FLACSO Ecuador.
 
 Pérez, F. (2024). Matemáticas y Programación para Ciencias Sociales. FLACSO Ecuador.
 - Repositorio GitHub: https://github.com/franperezec/math (Licencia MIT)
-- Canal de YouTube: https://www.youtube.com/@FranciscoPerezMatematicas (CC BY 4.0)
+- Canal de YouTube: https://www.youtube.com/channel/UCAGEJb2ofN1E99dc-WbPkBQ (CC BY 4.0)
 
 Al utilizar este material, acepto cumplir con los términos de las licencias MIT y Creative Commons BY 4.0 respectivamente.
 
