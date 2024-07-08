@@ -18,7 +18,7 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
 - 📗 [Clase 7:Noción de límite e  Introducción a Python](https://colab.research.google.com/drive/1Dahhcdei8pLVG51moKnll-nF4-swC8DN?usp=sharing)
 - 📙 [Clase 8: Estructuras de control en Python y Demostraciones Matemáticas con Nociones de Distancia](https://colab.research.google.com/drive/1WPIYkq7f-qZyTCiisAVe-ing0EnyhnQT?usp=sharing)
 - 📕 [Clase 9: Espacios Métricos y Conjuntos Abiertos.](https://colab.research.google.com/drive/1Yn91uj3cFLr7u_qQZPiArMUaBzon2Lo7?usp=sharing)
-- 📒 [Clase 10: Derivadas.](https://colab.research.google.com/drive/1acP7shHDGoVrzTjKKU67o_3kuoiuFtG3?usp=sharing)
+- 📒 [Clase 10: Derivadas y secuencias.](https://colab.research.google.com/drive/1acP7shHDGoVrzTjKKU67o_3kuoiuFtG3?usp=sharing)
 
 ## 📜 code
    - 🔢 Pseudocódigos de PSeInt.
