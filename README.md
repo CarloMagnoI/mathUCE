@@ -63,14 +63,30 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
    - 📝 [**Apuntes de Clase**](https://miro.com/app/board/uXjVK3CJUh0=/?share_link_id=654874216577)
    - 🎥 [**Video de la Clase**](https://youtu.be/b7RG6Ha9EEg)
 - **Clase 6: Aplicación a la Economía en Función Biyectiva y Compuesta.**
-- **Clase 7: Aplicación a la Economía en Función Biyectiva y Compuesta.**
+   - [Jupyter Notebook de la Clase](ENLACE_AL_JUPYTER_NOTEBOOK)
+   - [Apuntes de Clase](ENLACE_A_LOS_APUNTES)
+   - [Preguntas de Práctica y Fichas de Estudio](ENLACE_A_PREGUNTAS_Y_FICHAS)
+   - [Video de la Clase](ENLACE_AL_VIDEO)
+- **Clase 7:Noción de límite e Introducción a Python.**
+   - [Jupyter Notebook de la Clase](ENLACE_AL_JUPYTER_NOTEBOOK)
+   - [Apuntes de Clase](ENLACE_A_LOS_APUNTES)
+   - [Preguntas de Práctica y Fichas de Estudio](ENLACE_A_PREGUNTAS_Y_FICHAS)
+   - [Video de la Clase](ENLACE_AL_VIDEO)
 - **Clase 8: Estructuras de control en Python y Demostraciones Matemáticas con Nociones de Distancia.**
    - 📝 [Apuntes de Clase](https://miro.com/app/board/uXjVK2LAIg0=/?share_link_id=410190506766)
    - 🎥 [Video de la Clase](https://youtu.be/daANB61CkFo)
    - 🧩 [**Quizz Trivia de preguntas:**](https://www.google.com/url?q=https%3A%2F%2Fquizizz.com%2Fjoin%3Fgc%3D82331842)
    - 📜 [**Enlace a la documentación de Ejercicios**](https://www.google.com/url?q=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1b24vx-Vvag3_uIA0HJwZNVtibJxaRJYu%2Fedit%3Fusp%3Dsharing%26ouid%3D116005172411177802920%26rtpof%3Dtrue%26sd%3Dtrue)
-- **Clase 9: Aplicación a la Economía en Función Biyectiva y Compuesta.**
-
+- **Clase 9: Espacios Métricos y Conjuntos Abiertos.**
+   - [Jupyter Notebook de la Clase](ENLACE_AL_JUPYTER_NOTEBOOK)
+   - [Apuntes de Clase](ENLACE_A_LOS_APUNTES)
+   - [Preguntas de Práctica y Fichas de Estudio](ENLACE_A_PREGUNTAS_Y_FICHAS)
+   - [Video de la Clase](ENLACE_AL_VIDEO)
+- **Clase 10: Derivadas.**
+   - [Jupyter Notebook de la Clase](ENLACE_AL_JUPYTER_NOTEBOOK)
+   - [Apuntes de Clase](ENLACE_A_LOS_APUNTES)
+   - [Preguntas de Práctica y Fichas de Estudio](ENLACE_A_PREGUNTAS_Y_FICHAS)
+   - [Video de la Clase](ENLACE_AL_VIDEO)
 ---
 ## Referencias y Licencias
 
