@@ -14,7 +14,7 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
 - 📙 [Clase 3: Entorno de Python, variables y operadores. Principios de demostración matemática.](https://colab.research.google.com/drive/1ptOXscHnfDlRChT3GL0OnFdX-uPkuuKR?usp=sharing)
 - 📕 [Clase 4: Principios de demostración matemática. Funciones y conceptos relacionados.](https://colab.research.google.com/drive/1LAEJCxBwBwiAxuBAYTzN7WKM8ZZm4hoz?usp=sharing)
 - 📒 [Clase 5: Aplicación a la Economía en Función Biyectiva y Compuesta.](https://colab.research.google.com/drive/1vex3ouK6kpzNl105hSn1qOj7VJrUTKwU?usp=sharing)
-- 📘 [Clase 6:](https://colab.research.google.com/drive/130uGp8roRFayr8QWAJcD28lfkW5fWWrC?usp=sharing)
+- 📘 [Clase 6:Cardinalidad y Tipos de Funciones: Inyectivas, Sobreyectivas y Biyectivas.](https://colab.research.google.com/drive/1e5Iv4va5WfT24Q0uStcoRfGFze_toPFT?usp=sharing)
 - 📗 [Clase 7:Noción de límite e  Introducción a Python](https://colab.research.google.com/drive/1Dahhcdei8pLVG51moKnll-nF4-swC8DN?usp=sharing)
 - 📙 [Clase 8: Estructuras de control en Python y Demostraciones Matemáticas con Nociones de Distancia](https://colab.research.google.com/drive/1WPIYkq7f-qZyTCiisAVe-ing0EnyhnQT?usp=sharing)
 - 📕 [Clase 9: Espacios Métricos y Conjuntos Abiertos.](https://colab.research.google.com/drive/1Yn91uj3cFLr7u_qQZPiArMUaBzon2Lo7?usp=sharing)
