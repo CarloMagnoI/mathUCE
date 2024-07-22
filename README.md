@@ -100,6 +100,8 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
    - 📝 [Apuntes de Clase](ENLACE_A_LOS_APUNTES)
    - 🧩 [Preguntas de Práctica y Fichas de Estudio](ENLACE_A_PREGUNTAS_Y_FICHAS)
    - 🎥 [Video de la Clase](ENLACE_AL_VIDEO)
+   - 🧩 [**Quizz Trivia de preguntas:**](https://forms.office.com/Pages/ResponsePage.aspx?id=Ky6ljCAddEKaE7127MuB0WmrgZ-mmRtEi-2s6S4d62ZUMUtEV1UyWlg5SFg3RzI0SzZaUlpXU0ZDTi4u)
+   - 📜 [**Enlace a la documentación de Ejercicios**](https://docs.google.com/document/d/1wkEC4kuVhMFbxyuQiczjXSc7tTcyKuiQ/edit?usp=sharing&ouid=116005172411177802920&rtpof=true&sd=true)
 -  **Clase 13: Fundamentos de Integración y Teorema Fundamental del Cálculo**
    - 🖊️[Jupyter Notebook de la Clase](ENLACE_AL_JUPYTER_NOTEBOOK)
    - 📝[Apuntes de Clase](ENLACE_A_LOS_APUNTES)
