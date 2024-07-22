@@ -19,9 +19,9 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
 - 📙 [Clase 8: Estructuras de control en Python y Demostraciones Matemáticas con Nociones de Distancia](https://colab.research.google.com/drive/1WPIYkq7f-qZyTCiisAVe-ing0EnyhnQT?usp=sharing)
 - 📕 [Clase 9: Espacios Métricos y Conjuntos Abiertos.](https://colab.research.google.com/drive/1Yn91uj3cFLr7u_qQZPiArMUaBzon2Lo7?usp=sharing)
 - 📒 [Clase 10: Derivadas y secuencias.](https://colab.research.google.com/drive/1acP7shHDGoVrzTjKKU67o_3kuoiuFtG3?usp=sharing)
-- 📘 [Clase 11: Elementos de lógica y conjuntos](https://colab.research.google.com/drive/1qUi7W8SCCGAMLUoeE9kSf7KBdoS-T-uG?usp=sharing)
+- 📘 [Clase 11: Cálculo Infinitesimal y la Derivada](https://colab.research.google.com/drive/1qUi7W8SCCGAMLUoeE9kSf7KBdoS-T-uG?usp=sharing)
 - 📗 [Clase 12: Matemáticas y programación](https://colab.research.google.com/drive/1dQbMSpeFzDnjgKSekESQn_QYYoMfExWk?usp=sharing)
-- 📘 [Clase 13: Elementos de lógica y conjuntos](
+- 📘 [Clase 13: Fundamentos de Integración y Teorema Fundamental del Cálculo](https://colab.research.google.com/drive/1H7GWDR8-SyEYcJC-kvNKa1qdmDBKOuUK?usp=sharing)
 
 ## 📜 code
    - 🔢 Pseudocódigos de PSeInt.
@@ -95,12 +95,12 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
    - 📝 [Apuntes de Clase](ENLACE_A_LOS_APUNTES)
    - 🧩 [Preguntas de Práctica y Fichas de Estudio](ENLACE_A_PREGUNTAS_Y_FICHAS)
    - 🎥 [Video de la Clase](ENLACE_AL_VIDEO)
- **Clase 12: Matemáticas y Python**
+-  **Clase 12: Matemáticas y Python**
    - 🖊️ [Jupyter Notebook de la Clase](ENLACE_AL_JUPYTER_NOTEBOOK)
    - 📝 [Apuntes de Clase](ENLACE_A_LOS_APUNTES)
    - 🧩 [Preguntas de Práctica y Fichas de Estudio](ENLACE_A_PREGUNTAS_Y_FICHAS)
    - 🎥 [Video de la Clase](ENLACE_AL_VIDEO)
- **Clase 13: Fundamentos de Integración y Teorema Fundamental del Cálculo**
+-  **Clase 13: Fundamentos de Integración y Teorema Fundamental del Cálculo**
    - 🖊️[Jupyter Notebook de la Clase](ENLACE_AL_JUPYTER_NOTEBOOK)
    - 📝[Apuntes de Clase](ENLACE_A_LOS_APUNTES)
    - 🧩 [Preguntas de Práctica y Fichas de Estudio](ENLACE_A_PREGUNTAS_Y_FICHAS)
