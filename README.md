@@ -19,6 +19,9 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
 - 📙 [Clase 8: Estructuras de control en Python y Demostraciones Matemáticas con Nociones de Distancia](https://colab.research.google.com/drive/1WPIYkq7f-qZyTCiisAVe-ing0EnyhnQT?usp=sharing)
 - 📕 [Clase 9: Espacios Métricos y Conjuntos Abiertos.](https://colab.research.google.com/drive/1Yn91uj3cFLr7u_qQZPiArMUaBzon2Lo7?usp=sharing)
 - 📒 [Clase 10: Derivadas y secuencias.](https://colab.research.google.com/drive/1acP7shHDGoVrzTjKKU67o_3kuoiuFtG3?usp=sharing)
+- 📘 [Clase 11: Elementos de lógica y conjuntos](
+- 📗 [Clase 12: Matemáticas y programacón](https://colab.research.google.com/drive/1dQbMSpeFzDnjgKSekESQn_QYYoMfExWk?usp=sharing)
+- 📘 [Clase 13: Elementos de lógica y conjuntos](
 
 ## 📜 code
    - 🔢 Pseudocódigos de PSeInt.
