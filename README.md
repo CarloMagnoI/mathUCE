@@ -22,7 +22,7 @@ Aquí puedes acceder a mis anotaciones y notebooks en Google Colab, donde desarr
 - 📘 [Clase 11: Cálculo Infinitesimal y la Derivada](https://colab.research.google.com/drive/1qUi7W8SCCGAMLUoeE9kSf7KBdoS-T-uG?usp=sharing)
 - 📗 [Clase 12: Matemáticas y programación](https://colab.research.google.com/drive/1dQbMSpeFzDnjgKSekESQn_QYYoMfExWk?usp=sharing)
 - 📘 [Clase 13: Fundamentos de Integración y Teorema Fundamental del Cálculo](https://colab.research.google.com/drive/1H7GWDR8-SyEYcJC-kvNKa1qdmDBKOuUK?usp=sharing)
-
+- 📒 [Resumen clase de la 1 a la 10](https://colab.research.google.com/drive/1hX76cpTqTwyEGC5z_WAdCiORO7J2RjYF?usp=sharing1)
 ## 📜 code
    - 🔢 Pseudocódigos de PSeInt.
       - 📐[Calcular R](https://uceedu-my.sharepoint.com/:u:/g/personal/rcordonez_uce_edu_ec/EbvXE0Th709Jkiegwehwb-IBnzQ5DY-oX_Pj7C1aIdmATQ?e=WQqUKw)
